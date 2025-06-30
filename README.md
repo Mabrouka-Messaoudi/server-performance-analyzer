@@ -30,7 +30,7 @@ docker build -t server-analyzer.
 docker run --rm server-analyzer
 ```
 ## 🔗 Project Page
-[GitHub Repository](https://github.com/Mabrouka-Messaoudi/server-performance-analyzer.git)
+[Project URL](https://roadmap.sh/projects/server-stats)
 
 
 ## 📜 License
