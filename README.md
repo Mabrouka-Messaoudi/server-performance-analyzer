@@ -30,7 +30,8 @@ docker build -t server-analyzer .
 docker run --rm server-analyzer
 ```
 ## 🔗 Project Page
-🔗 GitHub Repository
+[GitHub Repository](https://github.com/YOUR_USERNAME/server-performance-analyzer)
+
 
 ## 📜 License
 This project is licensed under the MIT License.
