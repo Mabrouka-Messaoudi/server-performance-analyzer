@@ -16,6 +16,7 @@ A simple Bash script to analyze basic server performance stats like CPU, memory,
 ```bash
 chmod +x server-stats.sh
 ./server-stats.sh
+```
 
 ## 🐳 Run with Docker
 
@@ -23,11 +24,11 @@ chmod +x server-stats.sh
 
 ```bash
 docker build -t server-analyzer .
-
+```
 ### Step 2: Run the container
-'''bash
+```bash
 docker run --rm server-analyzer
-
+```
 ## 🔗 Project Page
 🔗 GitHub Repository
 
