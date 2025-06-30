@@ -23,7 +23,7 @@ chmod +x server-stats.sh
 ### Step 1: Build the Docker image
 
 ```bash
-docker build -t server-analyzer .
+docker build -t server-analyzer.
 ```
 ### Step 2: Run the container
 ```bash
